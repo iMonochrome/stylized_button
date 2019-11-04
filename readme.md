@@ -1,7 +1,6 @@
-# bubble_button
-hover button with bubble animation
+### STYLIZED BUTTONS
+Elegant buttons with direction hover effects.
 
-# Demo
-![alt text](https://github.com/iMonochrome/flip_button/blob/master/flip.gif)
+### Link [codepen](https://codepen.io/perry_nt/pen/eVboze)
+![alt text](https://github.com/iMonochrome/stylized_button/blob/master/flip.gif)
 
-# codepen
